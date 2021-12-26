@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bagusbpg
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Kotlin, R, and Python
+- 🌱 I’m currently learning Go, Javascript, Kotlin, R, and Python
 - 💞️ I’m looking to collaborate on Android application development
 - 📫 How to reach me bagusbpg[at]gmail[dot]com
 
